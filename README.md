@@ -1,2 +1,2 @@
 # rathodpoonam.github.io
-clone of Amazon
+clone of Amazon only for desktop view.
